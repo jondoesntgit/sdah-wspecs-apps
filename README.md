@@ -1,5 +1,8 @@
-# wspecs-apps
-Packages for wspecs webapps
+# Seventh-Day Adventist Hymnal
+The Seventh-day Adventist Hymnal is the hymbook most widely used by English-speaking Adventist congregations. This application provides the ability to quickly find a song using table of contents or search functions. A presentation mode also allows users to view the songs as a slideshow.
+
+### Frontend Url
+[See live](https://apps.wspecs.com/sdah/)
 
 ## Imported NPM modules
 
@@ -19,7 +22,7 @@ Packages for wspecs webapps
 * [bible-passage-reference-parser](https://www.npmjs.com/package/bible-passage-reference-parser) 
 * [reflect-metadata](https://www.npmjs.com/package/reflect-metadata) 
 
-new
+input
 
 ## License
 [ISC](LICENSE)
