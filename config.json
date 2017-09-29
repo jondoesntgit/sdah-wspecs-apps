@@ -1,14 +1,10 @@
 {
-  "title": "Sample Application",
-  "description": "Sample Application",
   "col": "webapp",
-  "path": "",
   "port": 1234,
   "dev": {
     "url": "http://localhost"
   },
   "prod": {
     "url": "https://localhost"
-  },
-  "image": "sample"
+  }
 }
