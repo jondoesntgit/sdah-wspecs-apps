@@ -1,10 +1,10 @@
-# Seventh-Day Adventist Hymnal
+# seventh-day-adventist-hymnal
 The Seventh-day Adventist Hymnal is the hymbook most widely used by English-speaking Adventist congregations. This application provides the ability to quickly find a song using table of contents or search functions. A presentation mode also allows users to view the songs as a slideshow.
 
 ### Frontend Url
 [See live](https://apps.wspecs.com/sdah/)
 
-[![Preview Seventh-Day Adventist Hymnal](public/img/showcase.png)](https://apps.wspecs.com/sdah/)
+[![Preview seventh-day-adventist-hymnal](public/img/showcase.png)](https://apps.wspecs.com/sdah/)
 
 ## Imported NPM modules
 

@@ -1,4 +1,4 @@
-const Hymn = require('./../dest/models/sdah');
+const Hymn = require('./../../demodels');
 
 let fs = require('fs');
 let hymns = JSON.parse(fs.readFileSync('data/json/hymns.json'));
