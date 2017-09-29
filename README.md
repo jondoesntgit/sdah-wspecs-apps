@@ -4,7 +4,7 @@ The Seventh-day Adventist Hymnal is the hymbook most widely used by English-spea
 ### Frontend Url
 [See live](https://apps.wspecs.com/sdah/)
 
-![Preview Seventh-Day Adventist Hymnal](img/preview.png)
+![Preview Seventh-Day Adventist Hymnal](public/img/preview.png)
 
 ## Imported NPM modules
 
