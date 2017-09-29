@@ -3,12 +3,12 @@
   "description": "Sample Application",
   "col": "webapp",
   "path": "",
-  "port": 3004,
+  "port": 1234,
   "dev": {
-    "url": "http://servone.wspecs.com"
+    "url": "http://localhost"
   },
   "prod": {
-    "url": "https://apps.wspecs.com"
+    "url": "https://localhost"
   },
   "image": "sample"
 }
