@@ -36,7 +36,16 @@ The Seventh-day Adventist Hymnal is the hymbook most widely used by English-spea
 * [scripty](https://www.npmjs.com/package/scripty) 
 * [typescript](https://www.npmjs.com/package/typescript) 
 
-true
+# Set Up
+
+Install and run an instance of
+[MongoDB](https://docs.mongodb.com/manual/installation), then run the following
+command
+
+```
+npm run init
+npm run dev
+```
 
 ## License
 [ISC](LICENSE)
