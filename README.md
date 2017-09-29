@@ -36,5 +36,7 @@ The Seventh-day Adventist Hymnal is the hymbook most widely used by English-spea
 * [scripty](https://www.npmjs.com/package/scripty) 
 * [typescript](https://www.npmjs.com/package/typescript) 
 
+true
+
 ## License
 [ISC](LICENSE)
