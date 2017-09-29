@@ -34,6 +34,18 @@
     "@types/password-hash": "^1.2.20",
     "@types/randomstring": "^1.1.6",
     "bible-passage-reference-parser": "^2.0.1",
-    "reflect-metadata": "^0.1.10"
+    "chalk": "^2.1.0",
+    "cookie-parser": "^1.4.3",
+    "cookies": "^0.7.1",
+    "ejs": "^2.5.7",
+    "express": "^4.16.0",
+    "html-minifier": "^3.5.5",
+    "minimist": "^1.2.0",
+    "mkdirp": "^0.5.1",
+    "mongoose": "^4.11.13",
+    "reflect-metadata": "^0.1.10",
+    "remove-accents": "^0.4.1",
+    "scripty": "^1.7.2",
+    "typescript": "^2.5.3"
   }
 }
